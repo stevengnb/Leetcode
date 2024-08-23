@@ -38,14 +38,9 @@ public:
             }
             neww = neww->next;
             
-            // if(temp2 == val) temp = 0;
-            // else temp = 1;
-
             if(l1) l1 = l1->next;
             if(l2) l2 = l2->next;
         }
-        cout << " val = " << val << endl;
-        cout << " temp = " << temp << endl;
 
         if(temp != 0 && val + temp >= 10) {
             neww->next = new ListNode(temp);
