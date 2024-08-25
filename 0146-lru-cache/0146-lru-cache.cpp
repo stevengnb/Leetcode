@@ -57,7 +57,6 @@ public:
             if(map.size() >= max) {
                 map.erase(head->key);
                 head = head->next;
-                // head->prev = nullptr;
             } 
 
             if(!head) {
@@ -73,23 +72,5 @@ public:
             }
             map[key] = newNode;
         }
-
-        // Node *curr = head;
-        // while(curr) {
-        //     cout << "val = " << curr->val << endl;
-        //     curr = curr->next;
-        // }
-
-        // for (auto &mapp : map) {
-        //     cout << "key = " << mapp.first << ", value = " << mapp.second->val << endl;
-        // }
-        // cout << endl << endl;
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
