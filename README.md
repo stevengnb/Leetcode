@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/stevengnb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/stevengnb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/stevengnb/Leetcode/tree/master/0118-pascals-triangle) |
+| [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
 ## Design
 |  |
 | ------- |
