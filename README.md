@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/stevengnb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stevengnb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/stevengnb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/stevengnb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/stevengnb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/stevengnb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
