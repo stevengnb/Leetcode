@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -184,8 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
