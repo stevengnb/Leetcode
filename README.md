@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Math
 |  |
 | ------- |
