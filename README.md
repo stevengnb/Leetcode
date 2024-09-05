@@ -208,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/stevengnb/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
