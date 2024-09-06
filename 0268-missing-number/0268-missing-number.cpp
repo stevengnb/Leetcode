@@ -1,12 +1,11 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_set<int> set{nums.begin(), nums.end()};
+        int result = nums.size();
 
-        for(int i = 0; i <= nums.size(); i++) {
-            if(set.find(i) == set.end()) return i;
+        for(int i = 0; i < nums.size(); i++){
+            result = result + i - nums[i];
         }
-
-        return -1;
+        return result;
     }
 };
