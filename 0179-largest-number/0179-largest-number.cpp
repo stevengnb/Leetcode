@@ -7,15 +7,11 @@ public:
 
     string largestNumber(vector<int>& nums) {
         vector<string> vect;
-        long long int total = 0;
 
-        for(int a : nums) {
-            vect.push_back(to_string(a));
-            total += a;
-        }
+        for(int a : nums) vect.push_back(to_string(a));
 
-        if(total == 0) return "0";
         sort(vect.begin(), vect.end(), compareFunc);
+        if(!vect.empty() && vect[0] == "0") return "0";
         
         string answer = "";
         for(string s : vect) {
