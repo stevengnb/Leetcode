@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/stevengnb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/stevengnb/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/stevengnb/Leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/stevengnb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/stevengnb/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/stevengnb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/stevengnb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/stevengnb/Leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/stevengnb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/stevengnb/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
