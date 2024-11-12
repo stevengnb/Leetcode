@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/stevengnb/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/stevengnb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/stevengnb/Leetcode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/stevengnb/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stevengnb/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/stevengnb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/stevengnb/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/stevengnb/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/stevengnb/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/stevengnb/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0572-subtree-of-another-tree](https://github.com/stevengnb/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/stevengnb/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/stevengnb/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stevengnb/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/stevengnb/Leetcode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
