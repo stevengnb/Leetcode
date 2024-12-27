@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/stevengnb/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/stevengnb/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/stevengnb/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/stevengnb/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/stevengnb/Leetcode/tree/master/0729-my-calendar-i) |
 | [1256-rank-transform-of-an-array](https://github.com/stevengnb/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/stevengnb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/stevengnb/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/stevengnb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/stevengnb/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
