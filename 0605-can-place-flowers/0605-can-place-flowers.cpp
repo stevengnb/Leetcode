@@ -8,7 +8,6 @@ public:
         int i = 0;
 
         while(i < flowerbed.size() && n > 0) {
-            cout << " flowered i = " << flowerbed[i] << ", n = " << n << endl;
             if(i == 0) {
                 if(flowerbed[i] == 0 && flowerbed[i+1] == 0) {
                     flowerbed[i] = 1;
