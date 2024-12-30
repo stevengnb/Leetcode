@@ -6,7 +6,7 @@ public:
 
         for(int i = 0; i < gain.size(); i++) {
             temp = temp + gain[i];
-            highest = max(highest, temp);
+            if(temp > highest) highest = temp;
         }
 
         return highest;
