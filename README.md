@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/stevengnb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/stevengnb/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/stevengnb/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/stevengnb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/stevengnb/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/stevengnb/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/stevengnb/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/stevengnb/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/stevengnb/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
