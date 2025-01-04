@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
+| [2358-number-of-ways-to-split-array](https://github.com/stevengnb/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/stevengnb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/stevengnb/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/stevengnb/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/stevengnb/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
