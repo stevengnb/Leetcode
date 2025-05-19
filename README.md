@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/stevengnb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/stevengnb/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/stevengnb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/stevengnb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/stevengnb/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
 | ------- |
