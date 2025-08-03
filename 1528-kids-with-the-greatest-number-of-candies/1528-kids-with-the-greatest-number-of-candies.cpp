@@ -4,12 +4,10 @@ public:
         vector<bool> ans;
         int max = INT_MIN;
 
-        for(int i : candies) {
-            if(i > max) max = i;
-        }
+        for(int i : candies) if(i > max) max = i;
 
-        for(int i = 0; i < candies.size(); i++) {
-            if(candies[i] + extraCandies >= max) ans.push_back(true);
+        for(int i : candies) {
+            if(i + extraCandies >= max) ans.push_back(true); 
             else ans.push_back(false);
         }
 
