@@ -1,18 +1,19 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        if(s.length() == 0 && t.length() == 0) return true;
-        else if(t.length() == 0) return false;
+        int left = 0;
+        int right = 0;
 
-        int idx = 0;
-
-        for(char c : t) {
-            // cout << "t = " << c << endl;
-            // cout << "s = " << s[idx] << endl << endl;
-            if(c == s[idx]) idx++;
-            if(idx >= s.length()) return true;
+        while(left < s.size() && right < t.size()) {
+            if(s[left] == t[right]) {
+                left++;
+                right++;
+            } else {
+                right++;
+            }
         }
 
+        if(left == s.size()) return true;
         return false;
     }
 };
