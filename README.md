@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/stevengnb/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/stevengnb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/stevengnb/Leetcode/tree/master/0890-lemonade-change) |
+| [1127-last-stone-weight](https://github.com/stevengnb/Leetcode/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/stevengnb/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/stevengnb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/stevengnb/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stevengnb/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1127-last-stone-weight](https://github.com/stevengnb/Leetcode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
