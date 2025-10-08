@@ -11,7 +11,6 @@ public:
                 }
             }
         }
-        cout << endl;
 
         while(!q.empty()) {
             pair<pair<int, int>, int> orange = q.front();
