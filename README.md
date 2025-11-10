@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/stevengnb/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/stevengnb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/stevengnb/Leetcode/tree/master/0724-find-pivot-index) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/stevengnb/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/stevengnb/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/stevengnb/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/stevengnb/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/stevengnb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/stevengnb/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/stevengnb/Leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Design
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
