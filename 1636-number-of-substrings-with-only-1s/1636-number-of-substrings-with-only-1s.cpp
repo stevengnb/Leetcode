@@ -17,9 +17,7 @@ public:
         return num % 1000000007;
     }
 
-    long show(int x) {
-        long total = 0;
-        for (int i = x; i > 0; i--) total += i;
-        return total;
+    long long show(long x) {
+        return x * (x+1) / 2; 
     }
 };
