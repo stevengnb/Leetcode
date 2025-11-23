@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/stevengnb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/stevengnb/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/stevengnb/Leetcode/tree/master/0729-my-calendar-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/stevengnb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/stevengnb/Leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/stevengnb/Leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/stevengnb/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/stevengnb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Design
