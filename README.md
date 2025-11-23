@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/stevengnb/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
+| [1137-n-th-tribonacci-number](https://github.com/stevengnb/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/stevengnb/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/stevengnb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/stevengnb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1137-n-th-tribonacci-number](https://github.com/stevengnb/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Design
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/stevengnb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/stevengnb/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/stevengnb/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
