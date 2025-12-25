@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/stevengnb/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stevengnb/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/stevengnb/Leetcode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/stevengnb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/stevengnb/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/stevengnb/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/stevengnb/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/stevengnb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/stevengnb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/stevengnb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/stevengnb/Leetcode/tree/master/0890-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/stevengnb/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/stevengnb/Leetcode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0881-boats-to-save-people](https://github.com/stevengnb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/stevengnb/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/stevengnb/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/stevengnb/Leetcode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/stevengnb/Leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/stevengnb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/stevengnb/Leetcode/tree/master/0890-lemonade-change) |
 ## Memoization
 |  |
