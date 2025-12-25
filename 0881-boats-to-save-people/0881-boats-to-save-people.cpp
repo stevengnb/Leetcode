@@ -7,10 +7,7 @@ public:
         int counter = 0;
 
         while (left <= right) {
-            int leftVal = people[left];
-            int rightVal = people[right];
-
-            if (leftVal + rightVal <= limit) left++;
+            if (people[left] + people[right] <= limit) left++;
             counter++;
             right--;
         }
