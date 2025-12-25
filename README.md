@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/stevengnb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/stevengnb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/stevengnb/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/stevengnb/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/stevengnb/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/stevengnb/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/stevengnb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/stevengnb/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/stevengnb/Leetcode/tree/master/1127-last-stone-weight) |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/stevengnb/Leetcode/tree/master/1025-divisor-game) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/stevengnb/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
