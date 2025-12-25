@@ -10,12 +10,8 @@ public:
             int leftVal = people[left];
             int rightVal = people[right];
 
-            if (leftVal + rightVal > limit) {
-                counter++;
-            } else {
-                counter++;
-                left++;    
-            }
+            if (leftVal + rightVal <= limit) left++;
+            counter++;
             right--;
         }
 
