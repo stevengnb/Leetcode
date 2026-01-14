@@ -6,11 +6,9 @@ public:
         int maxVal = INT_MIN;
 
         for (int i = 0; i < s.size(); i++) {
-            // cout << "i = " << i << ", s[i] = " << s[i] << ", maxval = " << maxVal << ", CHAR = " << s[i] << endl;
             left = right = i;
 
             while (left-1 >= 0 && right+1 < s.size() && (s[left-1] == s[right+1])) {
-                // cout << "CHECK ODD = " << "left = " << left << ", right = " << right << ", maxVal = " << maxVal << endl;
                 if ((right+1) - (left-1) + 1 > maxVal) {
                     maxVal = (right+1) - (left-1) + 1;
                     lp = left-1;
@@ -34,7 +32,6 @@ public:
             }
             
             while (left-1 >= 0 && right+1 < s.size() && (s[left-1] == s[right+1])) {
-                // cout << "CHECK EVEN = " << "left = " << left << ", right = " << right << ", maxVal = " << maxVal << endl;
                 if ((right+1) - (left-1) + 1 > maxVal) {
                     maxVal = (right+1) - (left-1) + 1;
                     lp = left-1;
