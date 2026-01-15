@@ -9,15 +9,15 @@ public:
         // char maxChar = '';
 
         for (int right = 0; right < s.size(); right++) {
-            cout << "window size = " << (right-left+1) << endl;
-            cout << "maxfreq = " << maxFreq << endl;
+            // cout << "window size = " << (right-left+1) << endl;
+            // cout << "maxfreq = " << maxFreq << endl;
             freq[s[right]]++;
 
             if (freq[s[right]] >= maxFreq) {
                 maxFreq = freq[s[right]];
             }
 
-            cout << "maxfreq now = " << maxFreq << endl << endl;
+            // cout << "maxfreq now = " << maxFreq << endl << endl;
 
             while ((right-left+1) - maxFreq > k) {
                 freq[s[left]]--;
