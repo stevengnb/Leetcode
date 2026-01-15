@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/stevengnb/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stevengnb/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stevengnb/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/stevengnb/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/stevengnb/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/stevengnb/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/stevengnb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/stevengnb/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/stevengnb/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/stevengnb/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0572-subtree-of-another-tree](https://github.com/stevengnb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/stevengnb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/stevengnb/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/stevengnb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/stevengnb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/stevengnb/Leetcode/tree/master/0904-fruit-into-baskets) |
