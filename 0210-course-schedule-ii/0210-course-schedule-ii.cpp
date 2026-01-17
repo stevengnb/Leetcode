@@ -3,13 +3,6 @@ public:
     vector<int> ans;
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        if (prerequisites.size() <= 0) {
-            if (numCourses <= 0) return vector<int>(1, 0);
-            else {
-                for (int i = numCourses - 1; i >= 0; i--) ans.push_back(i);
-                return ans;
-            }
-        }
         unordered_map<int, vector<int>> map;
         vector<int> state(numCourses, 0);
 
