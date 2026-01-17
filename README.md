@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/stevengnb/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/stevengnb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/stevengnb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/stevengnb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/stevengnb/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/stevengnb/Leetcode/tree/master/0729-my-calendar-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/stevengnb/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stevengnb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/stevengnb/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/stevengnb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stevengnb/Leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/stevengnb/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/stevengnb/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/stevengnb/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/stevengnb/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/stevengnb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stevengnb/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/stevengnb/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/stevengnb/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/stevengnb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stevengnb/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -545,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stevengnb/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/stevengnb/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
