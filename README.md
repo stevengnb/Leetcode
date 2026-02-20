@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/stevengnb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/stevengnb/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3819-rotate-non-negative-elements](https://github.com/stevengnb/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Math
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/stevengnb/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3819-rotate-non-negative-elements](https://github.com/stevengnb/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Prefix Sum
 |  |
 | ------- |
