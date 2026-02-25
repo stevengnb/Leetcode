@@ -5,17 +5,20 @@ public:
 
         for (int i = 0; i < s.size(); i++) {
             unordered_map<char, int> map;
+            int freq[27] = {0};
             for (int j = i; j < s.size(); j++) {
                 bool balanced = true;
                 int before = -1;
-                map[s[j]]++;
+                freq[s[j]-'a']++;
 
-                for (auto a : map) {
-                    if (before != -1 && a.second != before) {
+                for (int i = 0; i < 26; i++) {
+                    if (freq[i] == 0) continue;
+
+                    if (before != -1 && freq[i] != before) {
                         balanced = false;
                         break;
                     }
-                    before = a.second;
+                    before = freq[i];
                 }
 
                 if (balanced) maxVal = max(maxVal, j-i+1);
