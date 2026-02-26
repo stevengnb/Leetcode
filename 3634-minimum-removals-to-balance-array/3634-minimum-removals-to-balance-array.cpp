@@ -15,7 +15,6 @@ public:
             }
 
             if (right > len - 1) break;
-            cout << endl;
         }
 
         return len - maxVal;
