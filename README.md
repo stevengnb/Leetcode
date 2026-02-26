@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/stevengnb/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/stevengnb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stevengnb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/stevengnb/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3819-rotate-non-negative-elements](https://github.com/stevengnb/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Math
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/stevengnb/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/stevengnb/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/stevengnb/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stevengnb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/stevengnb/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stevengnb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/stevengnb/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/stevengnb/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stevengnb/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stevengnb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Quickselect
 |  |
 | ------- |
