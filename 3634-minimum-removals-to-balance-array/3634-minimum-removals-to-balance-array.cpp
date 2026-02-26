@@ -9,9 +9,7 @@ public:
 
         for (int left = 0; left < len; left++) {
             while (nums[right] <= (long long)nums[left]*k) {
-                if (nums[right] <= (long long)nums[left]*k) {
-                    maxVal = max(maxVal, right-left+1);
-                }
+                maxVal = max(maxVal, right-left+1);
                 right++;
                 if (right > len - 1) break;
             }
