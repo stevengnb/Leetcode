@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/stevengnb/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/stevengnb/Leetcode/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/stevengnb/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/stevengnb/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/stevengnb/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/stevengnb/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/stevengnb/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0989-add-to-array-form-of-integer](https://github.com/stevengnb/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/stevengnb/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/stevengnb/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stevengnb/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
