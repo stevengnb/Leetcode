@@ -16,9 +16,8 @@ public:
         }
 
         for (int i = start; i <= range; i++) {
-            if (currPath.size() > 0 && i <= currPath.back()) continue;
             currPath.push_back(i);
-            backtrack(ans, currPath, range, limit, start+1);
+            backtrack(ans, currPath, range, limit, i+1);
             currPath.pop_back();
         }
     }
