@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/stevengnb/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/stevengnb/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/stevengnb/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/stevengnb/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/stevengnb/Leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stevengnb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/stevengnb/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/stevengnb/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/stevengnb/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
