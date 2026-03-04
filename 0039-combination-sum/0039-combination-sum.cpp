@@ -18,11 +18,10 @@ public:
 
         for (int i = start; i < candidates.size(); i++) {
             int cand = candidates[i];
+            if (sum + cand > target) continue;
             sum += cand;
             path.push_back(cand);
-
             backtrack(ans, candidates, path, sum, target, i);
-
             path.pop_back();
             sum -= cand;
         }
