@@ -3,7 +3,8 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> path;
-
+        
+        sort(candidates.begin(), candidates.end());
         backtrack(ans, candidates, path, 0, target, 0);
 
         return ans;
@@ -18,7 +19,8 @@ public:
 
         for (int i = start; i < candidates.size(); i++) {
             int cand = candidates[i];
-            if (sum + cand > target) continue;
+            if (sum + cand > target) break;
+
             sum += cand;
             path.push_back(cand);
             backtrack(ans, candidates, path, sum, target, i);
