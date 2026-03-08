@@ -32,14 +32,6 @@ public:
         }
     }
 
-    void printPath(vector<int> &path) {
-        cout << "path = {";
-        for (int i = 0; i < path.size(); i++) {
-            cout << path[i] << ", ";
-        }
-        cout << "}" << endl;
-    }
-
     /*
     
         1 1 2
