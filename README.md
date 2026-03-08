@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/stevengnb/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/stevengnb/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/stevengnb/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/stevengnb/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/stevengnb/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/stevengnb/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/stevengnb/Leetcode/tree/master/0118-pascals-triangle) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/stevengnb/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/stevengnb/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/stevengnb/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/stevengnb/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/stevengnb/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/stevengnb/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/stevengnb/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/stevengnb/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/stevengnb/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/stevengnb/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/stevengnb/Leetcode/tree/master/0090-subsets-ii) |
