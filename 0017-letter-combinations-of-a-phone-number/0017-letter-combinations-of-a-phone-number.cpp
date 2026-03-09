@@ -19,7 +19,7 @@ public:
         return ans;
     }
 
-    void backtrack(vector<string> &ans, unordered_map<int,string> &choices, string currPath, string digits, int start) {
+    void backtrack(vector<string> &ans, unordered_map<int,string> &choices, string &currPath, string &digits, int start) {
         if (currPath.size() == digits.size()) {
             ans.push_back(currPath);
             return;
