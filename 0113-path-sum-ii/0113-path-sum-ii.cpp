@@ -25,11 +25,6 @@ public:
 
     void backtrack(vector<vector<int>> &ans, vector<int> &path, TreeNode* root, int sum, int targetSum) {
         if (!root) return;
-        print(path);
-        // cout << "root val = " << root->val << endl;
-        // cout << "sum = " << sum << endl;
-        // cout << "targetsum = " << targetSum << endl << endl;
-        // if ((targetSum < 0 && sum < targetSum) || (targetSum > 0 && sum > targetSum)) return;
         if (sum == targetSum && (!root->left && !root->right)) {
             ans.push_back(path);
             return;    
@@ -45,13 +40,5 @@ public:
             backtrack(ans, path, root->right, sum + root->right->val, targetSum);
             path.pop_back();
         }
-    }
-
-    void print(vector<int> &path) {
-        cout << "current path = ";
-        for (int i = 0; i < path.size(); i++) {
-            cout << path[i] << ", ";
-        }
-        cout << endl;
     }
 };
