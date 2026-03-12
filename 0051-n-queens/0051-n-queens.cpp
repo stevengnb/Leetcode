@@ -25,7 +25,7 @@ public:
     }
 
     bool isValid(int x, int y, vector<string> &path, int n) {
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < x; i++) {
             for (int j = 0; j < n; j++) {
                 if (path[i][j] == 'Q') {
                     if (i == x || j == y) return false;
