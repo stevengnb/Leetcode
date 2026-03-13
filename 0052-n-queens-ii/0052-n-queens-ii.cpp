@@ -4,13 +4,13 @@ public:
         int ans = 0;
         vector<string> path(n, string(n, '.'));
 
-        backtrack(ans, path, 0, 0, n, 0);
+        backtrack(ans, path, 0, 0, n);
 
         return ans;
     }
 
-    void backtrack(int &ans, vector<string> &path, int x, int y, int n, int queen) {
-        if (queen == n) {
+    void backtrack(int &ans, vector<string> &path, int x, int y, int n) {
+        if (x == n) {
             ans++;
             return;
         }
@@ -18,7 +18,7 @@ public:
         for (int j = 0; j < n; j++) {
             if (isValid(x, j, path, n)) {
                 path[x][j] = 'Q';
-                backtrack(ans, path, x+1, y, n, queen+1);
+                backtrack(ans, path, x+1, y, n);
                 path[x][j] = '.';
             }
         }
