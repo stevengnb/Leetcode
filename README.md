@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/stevengnb/Leetcode/tree/master/1127-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stevengnb/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/stevengnb/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/stevengnb/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/stevengnb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/stevengnb/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/stevengnb/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/stevengnb/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/stevengnb/Leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/stevengnb/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/stevengnb/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/stevengnb/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
