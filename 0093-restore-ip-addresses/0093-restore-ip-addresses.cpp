@@ -10,7 +10,6 @@ public:
     }
 
     void backtrack(vector<string> &ans, string &path, string &s, int start, int dots, string curr, int sum) {
-        // if (start > s.size()) return;
         if (curr != "" && (stoi(curr) < 0 || stoi(curr) > 255)) return;
         if (curr.size() >= 2 && curr[0] == '0') return;
 
