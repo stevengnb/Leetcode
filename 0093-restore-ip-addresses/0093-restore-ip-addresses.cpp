@@ -13,11 +13,6 @@ public:
         if (start > s.size()) return;
         if (curr != "" && (stoi(curr) < 0 || stoi(curr) > 255)) return;
         if (curr.size() >= 2 && curr[0] == '0') return;
-        // cout << "=== BACKTRACK ===" << endl;
-        // cout << "path = " << path << endl;
-        // cout << "s = " << s << endl;
-        // cout << "start = " << start << endl;
-        // cout << "dots = " << dots << endl << endl;
 
         if (dots == 4 && sum == s.size()) {
             ans.push_back(path);
