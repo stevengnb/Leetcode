@@ -4,16 +4,16 @@ public:
         vector<string> ans;
         string path;
 
-        backtrack(ans, path, s, 0, 0, "", 0);
+        backtrack(ans, path, s, 0, 0, "");
 
         return ans;
     }
 
-    void backtrack(vector<string> &ans, string &path, string &s, int start, int dots, string curr, int sum) {
+    void backtrack(vector<string> &ans, string &path, string &s, int start, int dots, string curr) {
         if (curr != "" && (stoi(curr) < 0 || stoi(curr) > 255)) return;
         if (curr.size() >= 2 && curr[0] == '0') return;
 
-        if (dots == 4 && sum == s.size()) {
+        if (dots == 4 && start == s.size()) {
             ans.push_back(path);
             return;
         }
@@ -26,7 +26,7 @@ public:
 
             path += now;
             if (dots != 3) path += ".";
-            backtrack(ans, path, s, start+i, dots+1, now, sum+i);
+            backtrack(ans, path, s, start+i, dots+1, now);
             path.resize(len);
         }
     }
