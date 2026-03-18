@@ -15,9 +15,6 @@ public:
         }
 
         for (int i = 1; i <= s.size(); i++) {
-            // printPath(path);
-            // cout << "i now = " << i << endl;
-            // cout << "start now = " << start << endl << endl;
             if (start + i > s.size()) break;
             string add = s.substr(start, i);
             if (!isPalindrome(add)) continue;
@@ -28,14 +25,6 @@ public:
         }
 
     }
-
-    // void printPath(vector<string> path) {
-    //     cout << "PATH = ";
-    //     for (string s : path) {
-    //         cout << " " << s;
-    //     }
-    //     cout << endl;
-    // }
 
     bool isPalindrome(string s) {
         int len = s.size();
