@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/stevengnb/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/stevengnb/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/stevengnb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3643-flip-square-submatrix-vertically](https://github.com/stevengnb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/stevengnb/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/stevengnb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stevengnb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/stevengnb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/stevengnb/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3819-rotate-non-negative-elements](https://github.com/stevengnb/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Math
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/stevengnb/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3643-flip-square-submatrix-vertically](https://github.com/stevengnb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
 |  |
 | ------- |
