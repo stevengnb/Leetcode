@@ -17,8 +17,6 @@ public:
 
         if (root->left && root->right) return 1 + min(minDepth(root->left), minDepth(root->right));
         if (root->left) return 1 + minDepth(root->left);
-        if (root->right) return 1 + minDepth(root->right);
-
-        return 0;
+        return 1 + minDepth(root->right);
     }
 };
