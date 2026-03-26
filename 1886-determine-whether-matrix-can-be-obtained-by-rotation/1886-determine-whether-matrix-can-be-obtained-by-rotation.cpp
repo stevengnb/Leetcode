@@ -1,14 +1,8 @@
 class Solution {
 public:
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
-        // vector<vector<int>> copy;
-        // printt(target);
-        // target = rotateArray(target);
-        // printt(target);
-
         for (int i = 0; i < 4; i++) {
             if (!isMatch(mat, target)) {
-                // rotate
                 target = rotateArray(target);
             } else {
                 return true;
@@ -16,65 +10,6 @@ public:
         }
 
         return false;
-
-        /*
-            0 0 
-            1 0
-
-            1 0
-            0 0 
-        */
-
-        /*
-        
-            1 1 0 0
-            0 1 0 1
-            1 0 1 0
-            0 1 1 0
-
-            // i j -> [j][n-i-1]
-            // 0 0 -> [0][3]
-            // 0 1 -> [1][2]
-            // 
-
-            transpose normal
-            1 0 1 0
-            1 1 0 1
-            0 0 1 1
-            0 1 0 0
-
-            rotate 1x
-            0 1 0 1
-            1 0 1 1
-            1 1 0 0
-            0 0 1 0
-
-            transpose 1x
-            0 1 1 0
-            1 0 1 0
-            0 1 0 1
-            1 1 0 0
-
-            rotate 2x
-            0 1 1 0
-            0 1 0 1
-            1 0 1 0
-            0 0 1 1
-
-            rotate 3x
-            0 1 0 0
-            0 0 1 1
-            1 1 0 1
-            1 0 1 0
-        
-            rotate 4x
-            1 1 0 0
-            0 1 0 1
-            1 0 1 0
-            0 1 1 0
-        
-        */
-        // return true;
     }
 
     vector<vector<int>> rotateArray(vector<vector<int>>& target) {
@@ -99,17 +34,6 @@ public:
         return ans;
     }
 
-    void printt(vector<vector<int>>& target) {
-        cout << "=== VECTOR === " << endl;
-        for (int i = 0; i < target.size(); i++) {
-            for (int j = 0; j < target[0].size(); j++) {
-                cout << target[i][j] << " ";
-            }
-            cout << endl;
-        }
-        cout << endl;
-    }
-
     bool isMatch(vector<vector<int>>& mat, vector<vector<int>>& target) {
         for (int i = 0; i < mat.size(); i++) {
             for (int j = 0; j < mat[0].size(); j++) {
@@ -119,3 +43,47 @@ public:
         return true;
     }
 };
+
+/*
+    1 1 0 0
+    0 1 0 1
+    1 0 1 0
+    0 1 1 0
+
+    transpose normal
+    1 0 1 0
+    1 1 0 1
+    0 0 1 1
+    0 1 0 0
+
+    rotate 1x
+    0 1 0 1
+    1 0 1 1
+    1 1 0 0
+    0 0 1 0
+
+    transpose 1x
+    0 1 1 0
+    1 0 1 0
+    0 1 0 1
+    1 1 0 0
+
+    rotate 2x
+    0 1 1 0
+    0 1 0 1
+    1 0 1 0
+    0 0 1 1
+
+    rotate 3x
+    0 1 0 0
+    0 0 1 1
+    1 1 0 1
+    1 0 1 0
+
+    rotate 4x
+    1 1 0 0
+    0 1 0 1
+    1 0 1 0
+    0 1 1 0
+
+*/
