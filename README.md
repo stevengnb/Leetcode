@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/stevengnb/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/stevengnb/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/stevengnb/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/stevengnb/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3194-find-words-containing-character](https://github.com/stevengnb/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/stevengnb/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/stevengnb/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/stevengnb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/stevengnb/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/stevengnb/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/stevengnb/Leetcode/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/stevengnb/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/stevengnb/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/stevengnb/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3819-rotate-non-negative-elements](https://github.com/stevengnb/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Prefix Sum
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/stevengnb/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/stevengnb/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/stevengnb/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/stevengnb/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/stevengnb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
 |  |
