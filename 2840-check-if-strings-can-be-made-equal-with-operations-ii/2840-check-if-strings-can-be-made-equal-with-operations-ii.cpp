@@ -15,9 +15,6 @@ public:
             }
         }
 
-        for (int i = 0; i < 26; i++) if (even[0][i] != even[1][i]) return false;
-        for (int i = 0; i < 26; i++) if (odd[0][i] != odd[1][i]) return false;
-
-        return true;
+        return even[0] == even[1] && odd[0] == odd[1];
     }
 };
