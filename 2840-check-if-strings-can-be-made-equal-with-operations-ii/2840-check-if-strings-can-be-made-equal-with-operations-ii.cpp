@@ -33,39 +33,21 @@ public:
 
  
         int len = s1.size();
-        // unordered_map<char, int> mapEven;
-        // unordered_map<char, int> mapOdd;
-
         vector<vector<int>> even(2, vector<int>(26, 0));
         vector<vector<int>> odd(2, vector<int>(26, 0));
-        // int even[2][27];
-        // int odd[2][27];
 
         for (int i = 0; i < len; i++) {
             if (i % 2 == 0) {
                 even[0][s1[i]-'a']++;
                 even[1][s2[i]-'a']++;
-                // mapEven[s1[i]]++;
-                // mapEven[s2[i]]++;
             } else {
                 odd[0][s1[i]-'a']++;
                 odd[1][s2[i]-'a']++;
-                // mapOdd[s1[i]]++;
-                // mapOdd[s2[i]]++;
             }
         }
 
-        for (int i = 0; i < 26; i++) {
-            if (even[0][i] != even[1][i]) return false;
-            cout << "evennya s1 = " << even[0][i] << endl;
-            cout << "evennya s2 = " << even[1][i] << endl;
-        }
-
-        for (int i = 0; i < 26; i++) {
-            if (odd[0][i] != odd[1][i]) return false;
-            cout << "oddnya s1 = " << odd[0][i] << endl;
-            cout << "oddnya s2 = " << odd[1][i] << endl;
-        }
+        for (int i = 0; i < 26; i++) if (even[0][i] != even[1][i]) return false;
+        for (int i = 0; i < 26; i++) if (odd[0][i] != odd[1][i]) return false;
 
         return true;
 
