@@ -6,56 +6,77 @@ public:
     }
 
     bool checkStrings(string s1, string s2) {
-        int len = s1.size();
-        string news1;
-        string news2;
+        // int len = s1.size();
+        // string news1;
+        // string news2;
 
-        for (int i = 0; i < len; i += 2) {
-            news1 += s1[i];
-            news2 += s2[i];
-        }
+        // for (int i = 0; i < len; i += 2) {
+        //     news1 += s1[i];
+        //     news2 += s2[i];
+        // }
 
-        sort(news1.begin(), news1.end());
-        sort(news2.begin(), news2.end());
-        if (!isSame(news1, news2)) return false;
+        // sort(news1.begin(), news1.end());
+        // sort(news2.begin(), news2.end());
+        // if (!isSame(news1, news2)) return false;
 
-        news1 = news2 = "";
+        // news1 = news2 = "";
         
-        for (int i = 1; i < len; i+= 2) {
-            news1 += s1[i];
-            news2 += s2[i];
-        }
+        // for (int i = 1; i < len; i+= 2) {
+        //     news1 += s1[i];
+        //     news2 += s2[i];
+        // }
 
-        sort(news1.begin(), news1.end());
-        sort(news2.begin(), news2.end());
+        // sort(news1.begin(), news1.end());
+        // sort(news2.begin(), news2.end());
 
-        return isSame(news1, news2);
+        // return isSame(news1, news2);
 
-        /*
-        ANSWER 2 (750/752)
-
+ 
         int len = s1.size();
-        unordered_map<char, int> mapEven;
-        unordered_map<char, int> mapOdd;
+        // unordered_map<char, int> mapEven;
+        // unordered_map<char, int> mapOdd;
+
+        vector<vector<int>> even(2, vector<int>(26, 0));
+        vector<vector<int>> odd(2, vector<int>(26, 0));
+        // int even[2][27];
+        // int odd[2][27];
 
         for (int i = 0; i < len; i++) {
             if (i % 2 == 0) {
-                mapEven[s1[i]]++;
-                mapEven[s2[i]]++;
+                even[0][s1[i]-'a']++;
+                even[1][s2[i]-'a']++;
+                // mapEven[s1[i]]++;
+                // mapEven[s2[i]]++;
             } else {
-                mapOdd[s1[i]]++;
-                mapOdd[s2[i]]++;
+                odd[0][s1[i]-'a']++;
+                odd[1][s2[i]-'a']++;
+                // mapOdd[s1[i]]++;
+                // mapOdd[s2[i]]++;
             }
         }
 
-        for (auto val : mapEven) if (val.second % 2 == 1) return false;
-        for (auto val : mapOdd) if (val.second % 2 == 1) return false;
-        // cout << "key in even = " << val.first << " is " << val.second << endl;
-        // cout << "key in odd = " << val.first << " is " << val.second << endl;
-        // cout << endl;
+        for (int i = 0; i < 26; i++) {
+            if (even[0][i] != even[1][i]) return false;
+            cout << "evennya s1 = " << even[0][i] << endl;
+            cout << "evennya s2 = " << even[1][i] << endl;
+        }
+
+        for (int i = 0; i < 26; i++) {
+            if (odd[0][i] != odd[1][i]) return false;
+            cout << "oddnya s1 = " << odd[0][i] << endl;
+            cout << "oddnya s2 = " << odd[1][i] << endl;
+        }
+
         return true;
 
-        */
+        // for (auto val : mapEven) if (val.second % 2 == 1) return false;
+        // for (auto val : mapOdd) if (val.second % 2 == 1) return false;
+        // // cout << "key in even = " << val.first << " is " << val.second << endl;
+        // // cout << "key in odd = " << val.first << " is " << val.second << endl;
+        // // cout << endl;
+
+        // return true;
+
 
 
 
